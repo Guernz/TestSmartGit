@@ -8,11 +8,17 @@ public class classe1 {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello World !");
+
 		sale gentil;
-		j'vais t'défoncer gentil monsieur;
+		j'vais t'dï¿½foncer gentil monsieur;
 		
 		Finalement, je vous aime tous <3 >4;
 		
+		j'vais t'dï¿½foncer enculï¿½ !
+		t'as compris ?!
+		j'te le rï¿½pï¿½terai pas !
+		parle toujours !
+
 	}
 
 }
