@@ -11,6 +11,7 @@ public class classe1 {
 		j'vais t'défoncer enculé !
 		t'as compris ?!
 		j'te le répèterai pas !
+		parle toujours !
 
 	}
 
