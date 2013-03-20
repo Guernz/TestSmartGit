@@ -8,8 +8,10 @@ public class classe1 {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello World !");
-		sale batard;
-		j'vais t'défoncer enculé !
+		sale gentil;
+		j'vais t'défoncer gentil monsieur;
+		
+		Finalement, je vous aime tous <3 >4;
 		
 	}
 
