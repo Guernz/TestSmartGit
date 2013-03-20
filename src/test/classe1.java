@@ -9,6 +9,7 @@ public class classe1 {
 		
 		System.out.println("Hello World !");
 		j'vais t'défoncer enculé !
+		parle toujours !
 
 	}
 
